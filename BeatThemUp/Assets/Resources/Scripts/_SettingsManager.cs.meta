@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cd1be4c1508f29447b215b2fbad95cfd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - masterVolumeSlider: {instanceID: 0}
+  - fxVolumeSlider: {instanceID: 0}
+  - musicVolumeSlider: {instanceID: 0}
+  - masterVolumeButton: {instanceID: 0}
+  - fxVolumeButton: {instanceID: 0}
+  - musicVolumeButton: {instanceID: 0}
+  - masterMixer: {fileID: 24100000, guid: 5a37c8cc8284bc54e957c73023345893, type: 2}
+  - fxMixer: {fileID: 24100000, guid: ae389366490904e4ebb3c5291ec7785c, type: 2}
+  - musicMixer: {fileID: 24100000, guid: cd9820446227a1349be72a4ce2b5f5f1, type: 2}
+  - unmutedSprite: {fileID: 21300000, guid: 747649d85a30c374f8c5517f43659a1e, type: 3}
+  - mutedSprite: {fileID: 21300000, guid: 7915c0194ef39b14e94d98999a87c9ab, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

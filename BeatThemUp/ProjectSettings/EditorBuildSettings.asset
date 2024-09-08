@@ -6,6 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Test.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Resources/Scenes/Menu.unity
+    guid: 8cbe65ebb103d9a4f96129ee3741a252
+  - enabled: 1
+    path: Assets/Resources/Scenes/Settings.unity
+    guid: 77052df9860cf3440a8d718eb8d31b46
+  - enabled: 1
+    path: Assets/Resources/Scenes/SettingsInGame.unity
+    guid: 5270ff04e9a6ac14a8f4c2aa23a0ea4e
+  - enabled: 1
+    path: Assets/Resources/Scenes/Observatory.unity
+    guid: 6a351bdf92b755646bc433ad33872c2d
+  - enabled: 1
+    path: Assets/Resources/Scenes/Game.unity
+    guid: 81fb706629a067a44a0efff2c0a5cf8d
+  - enabled: 1
+    path: Assets/Resources/Prefabs/Muerte}.unity
+    guid: bed332b4f79befa4e95704734453de5c
   m_configObjects: {}
